@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Alperen Remzi Ünal",
+    "titleTemplate": "%s",
+    "description": "Computer science student who can think outside of the box, is results-oriented, outspoken, analytical and aims to be a software engineer.",
+    "author": "Alperen Remzi Ünal",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "Computer science student who can think outside of the box, is results-oriented, outspoken, analytical and aims to be a software engineer.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/alperenremziunal",
+      "medium": "https://alperenunal.medium.com",
+      "linkedin": "https://www.linkedin.com/in/alperenremziunal/",
+      "mail": "mailto:alperenremziunal@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Portfolio" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Features", "url": "/#features" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": true
+    }
+  }
+}

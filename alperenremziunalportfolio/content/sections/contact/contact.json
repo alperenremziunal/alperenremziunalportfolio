@@ -1,0 +1,13 @@
+{
+  "name": "Alperen Remzi Ünal",
+  "email": "alperenremziunal@gmail.com",
+  "description": "Feel free to reach out to me.",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
