@@ -17,13 +17,13 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Alperen Remzi Ünal" },
+    "logo": { "text": "alprnunal" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "GitHub", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
