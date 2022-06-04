@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Alperen Remzi Ünal" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
