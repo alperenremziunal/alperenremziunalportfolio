@@ -1,9 +1,10 @@
 /*
-  Access-Control-Allow-Origin: *
-  
+  Access-Control-Allow-Origin: https://alperenremziunal.me
+  Vary: Origin
+ 
  /* 
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   Permissions-Policy: document-domain=()
-  Content-Security-Policy: script-src 'self'; frame-ancestors 'none';
+  Content-Security-Policy: script-src 'upgrade-insecure-requests'; frame-ancestors 'none';
